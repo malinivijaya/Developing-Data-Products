@@ -1,0 +1,13 @@
+Performance Measures,Overall,Team1,Team2,Team3
+Average Handle Time,00:02:53,00:02:43,00:02:41,00:03:39
+Average Wait Time,00:29.3,NA,NA,NA
+"% Time in ""Not Ready""",15.05%,14.95%,14.49%,16.33%
+% Calls Not Answered,0.67%,0.69%,0.91%,0.26%
+Adherence Measure 1,96.73%,95.38%,97.41%,97.85%
+Adherence Measure 2,98.74%,98.40%,98.46%,100.00%
+Adherence Measure 3,95.90%,98.40%,96.15%,90.32%
+Adherence Measure 4,94.54%,93.59%,93.73%,98.02%
+Quality Measure 1,100.00%,100.00%,100.00%,100.00%
+Quality Measure 2,99.12%,98.86%,99.36%,99.25%
+Overall Converted Score,78.32,81.87,80.83,75.12
+,,,,
